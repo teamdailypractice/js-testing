@@ -8,3 +8,4 @@
 * Node 14.17.5
 * npm install
 * eslint --init
+* npx install-peerdeps --dev eslint-config-prettier
