@@ -1,0 +1,23 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "* Testing Javascript applications <https://github.com/lucasfcosta/testing-javascript-applications>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamdailypractice/js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamdailypractice/js-testing/issues"
+  },
+  "homepage": "https://github.com/teamdailypractice/js-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
