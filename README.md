@@ -6,3 +6,5 @@
 ## Node env
 
 * Node 14.17.5
+* npm install
+* eslint --init
