@@ -20,13 +20,13 @@ test("createCart creates a cart for a username", async () => {
 test("addItem adds an item in a cart", async () => {
     const username = "Bharathiyaar";
     await createCart(username);
-    const { id: cartId } = await db
-        .select()
+    const  user = await db
+        .select("id")
         .from("carts")
         .where({ username });
-
+    const cartId = user[0].id;
     await addItem(cartId, "amla");
-    const result = await db.select("itemname").from("carts_items");
+    const result = await db.select().from("carts_items");
     expect(result).toEqual([{ cartId, itemname: "amla" }]);
 
 });
