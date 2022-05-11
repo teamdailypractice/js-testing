@@ -3,6 +3,6 @@
 ## Jest
 
 * npm test -- --detectOpenHandles
-* jest --forceExit
+* package.json - jest --forceExit
 
 
