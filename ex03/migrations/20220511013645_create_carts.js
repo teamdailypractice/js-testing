@@ -1,15 +1,17 @@
-/**
- * @param { import("knex").Knex } knex
- * @returns { Promise<void> }
- */
-exports.up = function(knex) {
-  
-};
+exports.up = async knex => {
+    await knex.schema.createTable("carts", table => {
+        table.increments("id");
+        table.string("username");
+    });
 
-/**
- * @param { import("knex").Knex } knex
- * @returns { Promise<void> }
- */
-exports.down = function(knex) {
-  
-};
+    await knex.schema.createTable("carts_items", table => {
+        table.integer("cartId").references("carts.id");
+        table.string("itemname");
+    });
+}
+
+
+exports.down = async knex => {
+    await knex.schema.dropTable("carts");
+    await knex.schema.dropTable("carts_items");
+}
