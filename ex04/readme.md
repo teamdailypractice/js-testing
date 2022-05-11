@@ -1,7 +1,8 @@
 # Web Server 
 
-## Setup
+## Jest
 
-```bat
+* npm test -- --detectOpenHandles
+* jest --forceExit
 
-```
+

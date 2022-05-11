@@ -2,7 +2,18 @@
   "name": "js-testing",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest"
+    "test": "jest --forceExit"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "isomorphic-fetch": "^3.0.0",
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1"
   }
-  
 }
