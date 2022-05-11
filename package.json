@@ -21,10 +21,13 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
+    "isomorphic-fetch": "^3.0.0",
     "jest": "^28.1.0"
   },
   "dependencies": {
     "knex": "^2.0.0",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
     "sqlite3": "^5.0.8"
   }
 }
