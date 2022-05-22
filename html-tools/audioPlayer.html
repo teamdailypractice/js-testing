@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio player - How many times</title>
+</head>
+<audio id="myAudio">
+    <source src="audio/1.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the audio.</p>
+
+<button onclick="playAudio(1)" type="button">Play Audio</button>
+<button onclick="playAudio(2)" type="button">Play Audio 2 times</button>
+<button onclick="playAudio(3)" type="button">Play Audio 3 times</button>
+<button onclick="pauseAudio()" type="button">Pause Audio</button>
+
+<script>
+
+    function playAudio(howmanyTimes) {
+        const audio = document.getElementById("myAudio");
+
+        audio.onended = onAudioEndedEventHandler.bind({ repeatCount: howmanyTimes - 1 });
+        audio.play();
+
+        function onAudioEndedEventHandler(event) {
+            console.log(this.repeatCount);
+            if (this.repeatCount > 0) {
+                audio.play();
+                this.repeatCount--;
+            }
+        }
+    }
+
+    function pauseAudio() {
+        const audio = document.getElementById("myAudio");
+        audio.pause();
+    }
+</script>
+
+</body>
+
+</html>
