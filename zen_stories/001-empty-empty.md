@@ -20,4 +20,5 @@ The professor watched the overflow until he no longer could restrain himself.
 * It always shines and its ever there
 * Because of the cloud of the ego I, what is there is not properly revealed
 * Even the cloud itself is being lit by the light of that which is always present
+* **Be still and know that I am that I am**
 
