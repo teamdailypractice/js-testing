@@ -14,7 +14,7 @@ The professor watched the overflow until he no longer could restrain himself.
 ## Empty Empty
 
 * **Aren't all opinions, in one way or other have come from external world - people?**
-* Empty your cup completely, Empty yourself completely
+* Empty my cup completely, Empty myself completely
 * Including the ego thought that I have emptied and I am empty now
 * When the ego I does not arise, What is really there shines
 * ஜடமாகிய உடலானது நான் என்று சொல்லாது; சித்சொரூபமோ, நான் என்று தோன்றாது
@@ -26,17 +26,27 @@ The professor watched the overflow until he no longer could restrain himself.
 * உளது அன்று, இலது அன்று
 * இருள் அன்று, ஒளி அன்று
 * என நின்றதுவே
+* செறிவு அற்று, உலகோடு உரை சிந்தையும் அற்று
+* அறிவு அற்று, அறியாமையும் அற்றதுவே
 * [திரு அருணகிரிநாதர் - கந்தர் அநுபூதி](https://kaumaram.com/anuboothi/anuboothi51.html#anu013)
-* காணிலார் கருத்தில் வாரார்
-* திருத்தலார் பொருத்த லாகார்
-* ஏணிலார் இறப்பும் இல்லார்
-* பிறப்பிலார் துறக்க லாகார்
-* நாணிலார் ஐவ ரோடும்
+* காண் இலார்; கருத்தில் வாரார்
+* திருத்தலார்; பொருத்தல் ஆகார்
+* ஏண் இலார்; இறப்பும் இல்லார்
+* பிறப்பு இலார்; துறக்கல் ஆகார்
+* நாண் இலார்; ஐவரோடும்
 * இட்டெனை விரவி வைத்தார்
-* ஆணலார் பெண்ணும் அல்லார்
+* ஆண் அலார்; பெண்ணும் அல்லார்
 * [திருநாவுக்கரசு சுவாமிகள்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0181.html#dt4001)
+* கண்டவன் எவன் என, கருத்தின் உள் நாடக்
+* கண்டவன் இன்றிட நின்ற அது கண்டேன்
+* கண்டனன் என்றிடக் கருத்து எழவில்லை
+* கண்டிலன் என்றிடக் கருத்து எழுமாறென்
+* [அருணாசல அஷ்டகம் - திரு ரமண மஹர்ஷி](http://www.sriramana.org/tamilparayana/songsone.php?dayno=1&sonsubtno=6&men=1)
+* மொட்டை அடித்தெனை;
+* வெட்டவெளியில் நீ  நடனம் ஆடினை; என் அருணாசலா!
+* அருணாசலா! யான் எனது, என்னும் இருவகைப் பற்றுக்களையும் இதயத்தினின்று நிர்மூலமாகச் செய்து, இதயப் பரவெளியின்கண் நீ இன்ப நடஞ் செய்தாய். என்ன ஆச்சரியம்!
+[அருணாசல அக்ஷரமணமாலை - திரு ரமண மஹர்ஷி](http://www.sriramana.org/tamilparayana/songsone.php?dayno=1&sonsubtno=3&men=1)
 * It always shines and its ever there
 * Because of the cloud of the ego I, what is there is not properly revealed
 * Even the cloud itself is being lit by the light of that which is always present
-* **Be still and know that I am that I am**
-
+* **Be still and know that I am that I am** - Bible
